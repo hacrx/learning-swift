@@ -4,7 +4,6 @@
 //
 //  Created by Hector Cosme on 7/24/17.
 //  Copyright © 2017 Hector Cosme. All rights reserved.
-// Hello world.
 //
 
 import UIKit
